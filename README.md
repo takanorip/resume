@@ -16,7 +16,6 @@
 ## 職務経歴
 
 ### Ubie株式会社（2022年〜現在）
-
 - 事業内容：医療系アプリケーションの開発期間	2022年7月〜現在
 - 職種：デザインエンジニア
 
@@ -24,16 +23,18 @@
 ##### チーム規模
 正社員2名+業務委託1-2名
 
-#### プロジェクト詳細・担当業務
+##### プロジェクト詳細
 プロダクトデザインやフロントエンド開発の生産性向上、デザインの均質化、Webアクセシビリティの強化などを目的にしたデザイン生産基盤の構築を推進した。
+
+##### 発信
+- [Ubieで利用しているアイコンをnpmパッケージとして公開しました！](https://zenn.dev/ubie_dev/articles/44d0eab3458cc0)
 
 ##### 利用技術
 Figma、Figma REST API、GitHub Actions、Style Dictionary、React、CSS Modules、Headless UI
 
-## 言語経験・スキル
+## スキル
 
 ### プログラミング系
-
 - HTML、CSS、JavaScript
 - TypeScript
 - React、Next.js
